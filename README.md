@@ -73,3 +73,7 @@ Follow prompts to perform actions.
 
 ## Disclaimer
 This password manager is intended for educational purposes and may not provide the same level of security as professionally developed and audited password managers. Use it at your own risk.
+
+## License
+The Password Manager Project is licensed under the [MIT License](LICENSE).
+
