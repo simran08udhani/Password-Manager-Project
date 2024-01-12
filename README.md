@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script provides a basic password manager functionality with encryption and secure storage using the AES encryption algorithm. The project utilizes the Crypto library for cryptographic operations and interacts with a MySQL database to store encrypted passwords and related information.
+This Python script provides a basic password manager functionality with encryption and secure storage using the AES encryption algorithm. The project utilizes the Crypto library for cryptographic operations and interacts with a MySQL database to store ,update and delete encrypted passwords and related information.
 
 ## Requirements
 
